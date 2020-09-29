@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>14EDE35E-37AC-472F-9A5C-B61D6159EDBB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14EDE35E-37AC-472F-9A5C-B61D6159EDBB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Goober Eats project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Goober Eats</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Goober Eats</string>
+			<key>timeStartedRecording</key>
+			<real>606397473.18036306</real>
+			<key>timeStoppedRecording</key>
+			<real>606397473.20808399</real>
+			<key>title</key>
+			<string>Build Goober Eats</string>
+			<key>uniqueIdentifier</key>
+			<string>14EDE35E-37AC-472F-9A5C-B61D6159EDBB</string>
+		</dict>
+		<key>E3E7196F-C2C0-4D40-84B9-39126790018E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E3E7196F-C2C0-4D40-84B9-39126790018E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Goober Eats project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Goober Eats</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Goober Eats</string>
+			<key>timeStartedRecording</key>
+			<real>605944554.50991905</real>
+			<key>timeStoppedRecording</key>
+			<real>605944554.54237902</real>
+			<key>title</key>
+			<string>Build Goober Eats</string>
+			<key>uniqueIdentifier</key>
+			<string>E3E7196F-C2C0-4D40-84B9-39126790018E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
